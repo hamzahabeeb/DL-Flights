@@ -117,7 +117,7 @@ export default function flightDetails({ params, searchParams }) {
                       <p className='text-xs px-[3px] text-green-800 font-medium'>
                         <span>
                         <span className='font-700'>97%</span>
-                        &nbsp; On-Time
+                         On-Time
                         </span>
                       </p>
                       </div>
